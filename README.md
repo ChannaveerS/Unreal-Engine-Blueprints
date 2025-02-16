@@ -29,6 +29,20 @@ This project showcases various Unreal Engine Blueprint implementations, includin
 - **Enhanced environment textures** for the play area and room.  
 - **Improved door design** by adding a **frame**.  
 
+## Video included in the project repo for the intro
+
+1 . Installation & Setup
+
+2. Open Unreal Engine.
+
+3. Clone the repository or download the project files.
+
+4. Open the .uproject file.
+
+5. Ensure all required assets are in place.
+
+6. Press Play to test animations and interactions.
+
 ## How to Play  
 1. Walk into the room to **turn on the point light**.  
 2. Press **E** near the door to **open/close** it.  
