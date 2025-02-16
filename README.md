@@ -29,7 +29,7 @@ This project showcases various Unreal Engine Blueprint implementations, includin
 - **Enhanced environment textures** for the play area and room.  
 - **Improved door design** by adding a **frame**.  
 
-## Video included in the project repo for the intro
+## Video included in the project for the intro
 
 1 . Installation & Setup
 
